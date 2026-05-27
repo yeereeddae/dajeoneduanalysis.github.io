@@ -17,9 +17,7 @@
     "risk_level": "안정",
     "safety_score": 82,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "갈마중학교",
@@ -39,9 +37,7 @@
     "risk_level": "주의",
     "safety_score": 86,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "기성중학교",
@@ -76,9 +72,7 @@
     "safety_score": 93,
     "space_proposal": "통합 후 유휴 공간을 'AI 에듀테크 체험관' 및 '지역 평생학습 거점'으로 활용 제안",
     "extinction_risk": "상",
-    "risk_reason": "학생 수 250명 미만으로 소규모 학교 기준에 해당하며, 최근 3개년 감소율이 15% 이상으로 급격한 소멸 위험이 감지됨.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 250명 미만으로 소규모 학교 기준에 해당하며, 최근 3개년 감소율이 15% 이상으로 급격한 소멸 위험이 감지됨."
   },
   {
     "name": "대덕중학교",
@@ -98,9 +92,7 @@
     "risk_level": "안정",
     "safety_score": 95,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전가양중학교",
@@ -120,9 +112,7 @@
     "risk_level": "안정",
     "safety_score": 96,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "대전가오중학교",
@@ -142,9 +132,7 @@
     "risk_level": "안정",
     "safety_score": 85,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전갑천중학교",
@@ -164,9 +152,7 @@
     "risk_level": "안정",
     "safety_score": 94,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전경덕중학교",
@@ -186,9 +172,7 @@
     "risk_level": "주의",
     "safety_score": 85,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "대전관저중학교",
@@ -208,9 +192,7 @@
     "risk_level": "안정",
     "safety_score": 89,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전관평중학교",
@@ -230,9 +212,7 @@
     "risk_level": "안정",
     "safety_score": 78,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전괴정중학교",
@@ -252,9 +232,7 @@
     "risk_level": "안정",
     "safety_score": 78,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전구봉중학교",
@@ -274,9 +252,7 @@
     "risk_level": "안정",
     "safety_score": 92,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전글꽃중학교",
@@ -296,9 +272,7 @@
     "risk_level": "안정",
     "safety_score": 80,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전남선중학교",
@@ -318,9 +292,7 @@
     "risk_level": "안정",
     "safety_score": 76,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "대전내동중학교",
@@ -340,9 +312,7 @@
     "risk_level": "안정",
     "safety_score": 98,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전노은중학교",
@@ -362,9 +332,7 @@
     "risk_level": "안정",
     "safety_score": 76,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전느리울중학교",
@@ -384,9 +352,7 @@
     "risk_level": "안정",
     "safety_score": 79,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전대문중학교",
@@ -431,9 +397,7 @@
     "safety_score": 76,
     "space_proposal": "청소년 문화의 집",
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "대전대성여자중학교",
@@ -453,9 +417,7 @@
     "risk_level": "주의",
     "safety_score": 77,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "대전대성중학교",
@@ -475,9 +437,7 @@
     "risk_level": "안정",
     "safety_score": 98,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전대신중학교",
@@ -497,9 +457,7 @@
     "risk_level": "안정",
     "safety_score": 89,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전대청중학교",
@@ -519,9 +477,7 @@
     "risk_level": "안정",
     "safety_score": 85,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "대전대화중학교",
@@ -556,9 +512,7 @@
     "safety_score": 97,
     "space_proposal": "통합 후 유휴 공간을 'AI 에듀테크 체험관' 및 '지역 평생학습 거점'으로 활용 제안",
     "extinction_risk": "상",
-    "risk_reason": "학생 수 250명 미만으로 소규모 학교 기준에 해당하며, 최근 3개년 감소율이 15% 이상으로 급격한 소멸 위험이 감지됨.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 250명 미만으로 소규모 학교 기준에 해당하며, 최근 3개년 감소율이 15% 이상으로 급격한 소멸 위험이 감지됨."
   },
   {
     "name": "대전덕명중학교",
@@ -578,9 +532,7 @@
     "risk_level": "주의",
     "safety_score": 81,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "대전도마중학교",
@@ -600,9 +552,7 @@
     "risk_level": "주의",
     "safety_score": 80,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "대전도안중학교",
@@ -622,9 +572,7 @@
     "risk_level": "안정",
     "safety_score": 80,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전동산중학교",
@@ -644,9 +592,7 @@
     "risk_level": "안정",
     "safety_score": 91,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "대전동화중학교",
@@ -666,9 +612,7 @@
     "risk_level": "안정",
     "safety_score": 75,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전두리중학교",
@@ -688,9 +632,7 @@
     "risk_level": "안정",
     "safety_score": 95,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전둔곡중학교",
@@ -725,9 +667,7 @@
     "safety_score": 76,
     "space_proposal": "통합 후 유휴 공간을 'AI 에듀테크 체험관' 및 '지역 평생학습 거점'으로 활용 제안",
     "extinction_risk": "상",
-    "risk_reason": "학생 수 250명 미만으로 소규모 학교 기준에 해당하며, 최근 3개년 감소율이 15% 이상으로 급격한 소멸 위험이 감지됨.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 250명 미만으로 소규모 학교 기준에 해당하며, 최근 3개년 감소율이 15% 이상으로 급격한 소멸 위험이 감지됨."
   },
   {
     "name": "대전둔산중학교",
@@ -747,9 +687,7 @@
     "risk_level": "안정",
     "safety_score": 96,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전둔원중학교",
@@ -769,9 +707,7 @@
     "risk_level": "안정",
     "safety_score": 89,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전만년중학교",
@@ -791,9 +727,7 @@
     "risk_level": "안정",
     "safety_score": 87,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전매봉중학교",
@@ -813,9 +747,7 @@
     "risk_level": "안정",
     "safety_score": 86,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전문정중학교",
@@ -835,9 +767,7 @@
     "risk_level": "안정",
     "safety_score": 88,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전문지중학교",
@@ -857,9 +787,7 @@
     "risk_level": "안정",
     "safety_score": 83,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전문화여자중학교",
@@ -879,9 +807,7 @@
     "risk_level": "주의",
     "safety_score": 79,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "대전버드내중학교",
@@ -901,9 +827,7 @@
     "risk_level": "안정",
     "safety_score": 89,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전법동중학교",
@@ -923,9 +847,7 @@
     "risk_level": "안정",
     "safety_score": 75,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "대전변동중학교",
@@ -945,9 +867,7 @@
     "risk_level": "안정",
     "safety_score": 79,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전봉명중학교",
@@ -967,9 +887,7 @@
     "risk_level": "안정",
     "safety_score": 85,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전봉산중학교",
@@ -989,9 +907,7 @@
     "risk_level": "안정",
     "safety_score": 94,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "대전봉우중학교",
@@ -1011,9 +927,7 @@
     "risk_level": "안정",
     "safety_score": 82,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전삼육중학교",
@@ -1048,9 +962,7 @@
     "safety_score": 98,
     "space_proposal": "통합 후 유휴 공간을 'AI 에듀테크 체험관' 및 '지역 평생학습 거점'으로 활용 제안",
     "extinction_risk": "상",
-    "risk_reason": "학생 수 250명 미만으로 소규모 학교 기준에 해당하며, 최근 3개년 감소율이 15% 이상으로 급격한 소멸 위험이 감지됨.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 250명 미만으로 소규모 학교 기준에 해당하며, 최근 3개년 감소율이 15% 이상으로 급격한 소멸 위험이 감지됨."
   },
   {
     "name": "대전삼천중학교",
@@ -1070,9 +982,7 @@
     "risk_level": "안정",
     "safety_score": 81,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전새미래중학교",
@@ -1092,9 +1002,7 @@
     "risk_level": "안정",
     "safety_score": 85,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전서중학교",
@@ -1114,9 +1022,7 @@
     "risk_level": "주의",
     "safety_score": 80,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "대전송강중학교",
@@ -1136,9 +1042,7 @@
     "risk_level": "안정",
     "safety_score": 95,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "대전송촌중학교",
@@ -1158,9 +1062,7 @@
     "risk_level": "안정",
     "safety_score": 90,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전신계중학교",
@@ -1180,9 +1082,7 @@
     "risk_level": "안정",
     "safety_score": 81,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전신일중학교",
@@ -1202,9 +1102,7 @@
     "risk_level": "안정",
     "safety_score": 83,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전어은중학교",
@@ -1224,9 +1122,7 @@
     "risk_level": "안정",
     "safety_score": 84,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전여자중학교",
@@ -1246,9 +1142,7 @@
     "risk_level": "안정",
     "safety_score": 91,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "대전외삼중학교",
@@ -1268,9 +1162,7 @@
     "risk_level": "안정",
     "safety_score": 77,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전용운중학교",
@@ -1315,9 +1207,7 @@
     "safety_score": 91,
     "space_proposal": "청소년 문화의 집",
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "대전용전중학교",
@@ -1337,9 +1227,7 @@
     "risk_level": "안정",
     "safety_score": 98,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "대전원신흥중학교",
@@ -1359,9 +1247,7 @@
     "risk_level": "안정",
     "safety_score": 86,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전월평중학교",
@@ -1381,9 +1267,7 @@
     "risk_level": "주의",
     "safety_score": 78,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "대전은어송중학교",
@@ -1403,9 +1287,7 @@
     "risk_level": "안정",
     "safety_score": 84,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전자운중학교",
@@ -1425,9 +1307,7 @@
     "risk_level": "안정",
     "safety_score": 97,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "대전장대중학교",
@@ -1447,9 +1327,7 @@
     "risk_level": "안정",
     "safety_score": 75,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전전민중학교",
@@ -1469,9 +1347,7 @@
     "risk_level": "안정",
     "safety_score": 89,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전정림중학교",
@@ -1491,9 +1367,7 @@
     "risk_level": "주의",
     "safety_score": 93,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "대전제일중학교",
@@ -1538,9 +1412,7 @@
     "safety_score": 91,
     "space_proposal": "청소년 문화의 집",
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "대전중앙여자중학교",
@@ -1560,9 +1432,7 @@
     "risk_level": "주의",
     "safety_score": 86,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "대전중앙중학교",
@@ -1582,9 +1452,7 @@
     "risk_level": "안정",
     "safety_score": 88,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전중학교",
@@ -1604,9 +1472,7 @@
     "risk_level": "안정",
     "safety_score": 82,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "대전지족중학교",
@@ -1626,9 +1492,7 @@
     "risk_level": "안정",
     "safety_score": 82,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전체육중학교",
@@ -1659,14 +1523,11 @@
       ]
     },
     "predicted_5y": 96,
-    "risk_level": "특수목적",
+    "risk_level": "심각",
     "safety_score": 93,
     "space_proposal": "통합 후 유휴 공간을 'AI 에듀테크 체험관' 및 '지역 평생학습 거점'으로 활용 제안",
-    "extinction_risk": "특수",
-    "risk_reason": "본 학교는 특수목적(체육) 학교로, 일반적인 학령 인구 감소에 따른 소멸 위험 분석 대상에서 제외됩니다. 고유의 교육 목적을 수행하는 학교입니다.",
-    "is_special": true,
-    "special_type": "특수목적(체육)",
-    "exclude_from_simulation": true
+    "extinction_risk": "상",
+    "risk_reason": "학생 수 250명 미만으로 소규모 학교 기준에 해당하며, 최근 3개년 감소율이 15% 이상으로 급격한 소멸 위험이 감지됨."
   },
   {
     "name": "대전탄방중학교",
@@ -1686,9 +1547,7 @@
     "risk_level": "안정",
     "safety_score": 94,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전태평중학교",
@@ -1708,9 +1567,7 @@
     "risk_level": "안정",
     "safety_score": 94,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "대전하기중학교",
@@ -1730,9 +1587,7 @@
     "risk_level": "안정",
     "safety_score": 93,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "동대전중학교",
@@ -1752,9 +1607,7 @@
     "risk_level": "안정",
     "safety_score": 96,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "동명중학교",
@@ -1785,14 +1638,11 @@
       ]
     },
     "predicted_5y": 48,
-    "risk_level": "특수목적",
+    "risk_level": "심각",
     "safety_score": 87,
     "space_proposal": "통합 후 유휴 공간을 'AI 에듀테크 체험관' 및 '지역 평생학습 거점'으로 활용 제안",
-    "extinction_risk": "특수",
-    "risk_reason": "본 학교는 특성화(대안교육) 학교로, 일반적인 학령 인구 감소에 따른 소멸 위험 분석 대상에서 제외됩니다. 고유의 교육 목적을 수행하는 학교입니다.",
-    "is_special": true,
-    "special_type": "특성화(대안교육)",
-    "exclude_from_simulation": true
+    "extinction_risk": "상",
+    "risk_reason": "학생 수 250명 미만으로 소규모 학교 기준에 해당하며, 최근 3개년 감소율이 15% 이상으로 급격한 소멸 위험이 감지됨."
   },
   {
     "name": "동방여자중학교",
@@ -1812,9 +1662,7 @@
     "risk_level": "주의",
     "safety_score": 89,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "동신중학교",
@@ -1843,9 +1691,7 @@
     "safety_score": 93,
     "space_proposal": "늘봄학교 통합지원센터",
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "보문중학교",
@@ -1865,9 +1711,7 @@
     "risk_level": "안정",
     "safety_score": 81,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "성덕중학교",
@@ -1887,9 +1731,7 @@
     "risk_level": "주의",
     "safety_score": 84,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "신탄중앙중학교",
@@ -1909,9 +1751,7 @@
     "risk_level": "안정",
     "safety_score": 96,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "신탄진중학교",
@@ -1931,9 +1771,7 @@
     "risk_level": "안정",
     "safety_score": 84,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "오정중학교",
@@ -1978,9 +1816,7 @@
     "safety_score": 83,
     "space_proposal": "지역사회 평생학습관",
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "우송중학교",
@@ -2000,9 +1836,7 @@
     "risk_level": "안정",
     "safety_score": 87,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "유성중학교",
@@ -2022,9 +1856,7 @@
     "risk_level": "안정",
     "safety_score": 92,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "중리중학교",
@@ -2044,9 +1876,7 @@
     "risk_level": "안정",
     "safety_score": 84,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "진잠중학교",
@@ -2066,9 +1896,7 @@
     "risk_level": "안정",
     "safety_score": 84,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "청란여자중학교",
@@ -2113,9 +1941,7 @@
     "safety_score": 81,
     "space_proposal": "청소년 문화의 집",
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "충남여자중학교",
@@ -2135,9 +1961,7 @@
     "risk_level": "안정",
     "safety_score": 76,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "충남중학교",
@@ -2157,9 +1981,7 @@
     "risk_level": "안정",
     "safety_score": 79,
     "extinction_risk": "하",
-    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 이상으로 안정적인 교육 환경을 유지하고 있으나, 장기적인 학령 인구 감소 추세에 대한 모니터링 필요."
   },
   {
     "name": "한밭여자중학교",
@@ -2179,9 +2001,7 @@
     "risk_level": "주의",
     "safety_score": 78,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "한밭중학교",
@@ -2201,9 +2021,7 @@
     "risk_level": "안정",
     "safety_score": 89,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "호수돈여자중학교",
@@ -2223,9 +2041,7 @@
     "risk_level": "주의",
     "safety_score": 79,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   },
   {
     "name": "회덕중학교",
@@ -2245,8 +2061,6 @@
     "risk_level": "주의",
     "safety_score": 81,
     "extinction_risk": "중",
-    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임.",
-    "is_special": false,
-    "exclude_from_simulation": false
+    "risk_reason": "학생 수 450명 미만으로 주의가 필요한 단계이며, 인근 배후 수요(아파트)의 학령 인구 유입이 정체된 상태임."
   }
 ]
